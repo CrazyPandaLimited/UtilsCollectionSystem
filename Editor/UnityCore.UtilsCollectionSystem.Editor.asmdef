@@ -1,0 +1,17 @@
+{
+    "name": "UnityCore.UtilsCollectionSystem.Editor",
+    "references": [
+        "UnityCore.UtilsCollectionSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

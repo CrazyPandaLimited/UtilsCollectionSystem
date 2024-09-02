@@ -1,0 +1,7 @@
+{
+    "systemId": "UtilsCollectionSystem",
+    "version": "7.0.0",
+    "changeLogsConfluencePage": "https://confluence.crazypanda.ru/pages/viewpage.action?pageId=605094005",
+    "descriptionConfluencePage": "https://confluence.crazypanda.ru/pages/viewpage.action?pageId=605093963",
+    "remoteRepoPath": "git@git.crazypanda.ru:core/unity/utils-collection.git"
+}
